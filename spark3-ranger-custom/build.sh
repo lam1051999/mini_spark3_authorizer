@@ -1,0 +1,1 @@
+/tmp/spark3-thriftserver/spark3-custom/build/mvn clean package

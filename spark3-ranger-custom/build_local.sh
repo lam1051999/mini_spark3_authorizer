@@ -1,0 +1,1 @@
+/Users/tranlammacbook/Downloads/ghtk_mywork/spark3-thriftserver/spark3-custom/build/mvn clean package

@@ -137,7 +137,6 @@ object RangerSparkAuthorizer {
         }
       }
     } finally {
-      // TODO（Kent Yao) add auditHandler.flush()
       RangerPerfTracer.log(perf)
     }
   }
